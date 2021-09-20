@@ -1,8 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.furniture">
    <application
-        android:label="furniture"
-        android:icon="@mipmap/ic_launcher">
+        android:label="Furniture"
+        android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
